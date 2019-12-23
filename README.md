@@ -13,7 +13,7 @@ This repository contains:
 
 - A jupyter notebook "AnalyzeDF," which contains the substantive analysis of the processed data, including results from random forest, support vector machine, and k-nearest neighbor supervised learning as well as PCA and correlation plots from the generated statistics.
 
-
+- A pdf "David Coit machine learning project, final presentation" which contains the slides I discussed in class. Note: model performance has improved since the presentation, as evidenced by figures in the AnalyzeDF jupyter notebook.
 
 REFERENCES:
 
